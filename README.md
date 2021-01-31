@@ -1,5 +1,5 @@
 # PopChill
-
+Hosting can be found here - https://popchill-cce70.web.app/
 
 This is a movie streaming site. 
  1. You have to first signup, the login credientials will be stored in firebase - realtime database
